@@ -52,7 +52,6 @@ IPL-Dataset-Analysis/
 1. Clone this repository:
    ```bash
    git clone https://github.com/sheetalkothari13/IPL-Dataset-analysis-mini-project.git
-   cd IPL-Dataset-Analysis
    ```
 2. Install dependencies:
    ```bash
